@@ -1,0 +1,4 @@
+﻿  functions and parameters.cpp
+c:\users\earl\source\repos\func_param\func_param\functions and parameters.cpp(53): warning C4101: 'repeat': unreferenced local variable
+c:\users\earl\source\repos\func_param\func_param\functions and parameters.cpp(142): warning C4101: 'tx': unreferenced local variable
+  Func_param.vcxproj -> C:\Users\Earl\source\repos\Func_param\Debug\Func_param.exe

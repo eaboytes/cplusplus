@@ -1,0 +1,3 @@
+﻿  student_num.cpp
+c:\users\earl\source\repos\randnumassign\randnumassign\student_num.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randnumassign.vcxproj -> C:\Users\Earl\source\repos\randnumassign\Debug\randnumassign.exe

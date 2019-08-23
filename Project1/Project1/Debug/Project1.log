@@ -1,0 +1,2 @@
+﻿Zach_gg.obj : error LNK2005: _main already defined in Aboytes L2A.obj
+C:\Users\Earl\source\repos\Project1\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found

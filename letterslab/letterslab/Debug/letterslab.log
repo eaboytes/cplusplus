@@ -1,0 +1,3 @@
+﻿  Aboytes L2A.cpp
+c:\users\earl\source\repos\letterslab\letterslab\aboytes l2a.cpp(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  letterslab.vcxproj -> C:\Users\Earl\source\repos\letterslab\Debug\letterslab.exe

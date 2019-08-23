@@ -1,0 +1,3 @@
+﻿  times_table.cpp
+c:\users\earl\source\repos\timestable\timestable\times_table.cpp(14): warning C4101: 'x': unreferenced local variable
+  timestable.vcxproj -> C:\Users\Earl\source\repos\timestable\Debug\timestable.exe

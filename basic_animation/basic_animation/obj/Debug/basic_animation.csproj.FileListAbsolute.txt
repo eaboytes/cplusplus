@@ -1,0 +1,10 @@
+C:\Users\Earl\source\repos\basic_animation\basic_animation\bin\Debug\basic_animation.exe.config
+C:\Users\Earl\source\repos\basic_animation\basic_animation\bin\Debug\basic_animation.exe
+C:\Users\Earl\source\repos\basic_animation\basic_animation\bin\Debug\basic_animation.pdb
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.csprojAssemblyReference.cache
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.formrocket.resources
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.Properties.Resources.resources
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.csproj.GenerateResource.cache
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.csproj.CoreCompileInputs.cache
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.exe
+C:\Users\Earl\source\repos\basic_animation\basic_animation\obj\Debug\basic_animation.pdb

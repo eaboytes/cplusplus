@@ -1,0 +1,3 @@
+﻿  date.cpp
+c:\users\earl\source\repos\date\date\date.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  date.vcxproj -> C:\Users\Earl\source\repos\date\Debug\date.exe

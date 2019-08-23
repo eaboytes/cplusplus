@@ -1,0 +1,5 @@
+C:\Users\Earl\source\repos\simple_animation\simple_animation\obj\Debug\simple_animation.csprojAssemblyReference.cache
+C:\Users\Earl\source\repos\simple_animation\simple_animation\obj\Debug\simple_animation.Form1.resources
+C:\Users\Earl\source\repos\simple_animation\simple_animation\obj\Debug\simple_animation.Properties.Resources.resources
+C:\Users\Earl\source\repos\simple_animation\simple_animation\obj\Debug\simple_animation.csproj.GenerateResource.cache
+C:\Users\Earl\source\repos\simple_animation\simple_animation\obj\Debug\simple_animation.csproj.CoreCompileInputs.cache

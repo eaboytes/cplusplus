@@ -1,0 +1,3 @@
+﻿  Zach number letter program.cpp
+c:\users\earl\source\repos\numbers to letters\numbers to letters\zach number letter program.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Numbers to letters.vcxproj -> C:\Users\Earl\source\repos\Numbers to letters\Debug\Numbers to letters.exe

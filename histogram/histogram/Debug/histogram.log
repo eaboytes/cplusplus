@@ -1,0 +1,3 @@
+﻿  histo.cpp
+c:\users\earl\source\repos\histogram\histogram\histo.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  histogram.vcxproj -> C:\Users\Earl\source\repos\histogram\Debug\histogram.exe
